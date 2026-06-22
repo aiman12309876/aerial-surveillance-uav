@@ -19,5 +19,3 @@ A real-time aerial surveillance system using YOLOv8 for object detection in dron
 - CLAHE preprocessing for aerial imagery
 - Military HUD-style UI
 - Download processed videos
-
-## Project Structure
