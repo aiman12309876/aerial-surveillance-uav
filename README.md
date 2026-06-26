@@ -40,6 +40,9 @@ A real-time aerial surveillance system using **YOLOv8** for object detection in 
 
 ---
 
+##Support
+If you found this project useful, please give it a star on GitHub! ⭐
+
 ##  Technologies Used
 
 | Component | Technology |
@@ -66,17 +69,5 @@ git clone https://github.com/aiman12309876/aerial-surveillance-uav.git
 cd aerial-surveillance-uav
 pip install -r requirements.txt
 
-## streamlit run app.py
-streamlit run app.py
 
-##License
-MIT License
-
-##Author
-Aiman Zahoor
-GitHub: aiman12309876
-Email: aimanzahoor87@gmail.com
-
-##Support
-If you found this project useful, please give it a star on GitHub! ⭐
 
