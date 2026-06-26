@@ -66,6 +66,7 @@ cd aerial-surveillance-uav
 pip install -r requirements.txt
 
 Running the Application
+bash
 streamlit run app.py
 
 License
@@ -74,22 +75,11 @@ MIT License
 Author
 Aiman Zahoor
 GitHub: aiman12309876
-
-⭐ Show Your Support
-If you found this project useful, please give it a star on GitHub!
 Email: aimanzahoor87@gmail.com
 
+Support
+If you found this project useful, please give it a star on GitHub! ⭐
+
 ---
-### ✅ Quick Summary:
 
-| Section | Added? |
-|---------|--------|
-| How It Works | ✅ |
-| Technologies Used | ✅ |
-| Installation | ✅ |
-| Running the App | ✅ |
-| Features | ✅ |
-| License | ✅ |
-| Author | ✅ |
-| Support | ✅ |
-
+**Copy, paste into README, and commit.** 
