@@ -64,19 +64,6 @@ A real-time aerial surveillance system using **YOLOv8** for object detection in 
 ```bash
 streamlit run app.py
 
-📝 License
-MIT License
-
-👤 Author
-Aiman Zahoor
-
-GitHub: aiman12309876
-
-Email: aimanzahoor87@gmail.com
-
-⭐ Support
-If you found this project useful, please give it a star on GitHub! ⭐
-
 ## Installation
 
 ```bash
