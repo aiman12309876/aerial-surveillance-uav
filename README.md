@@ -21,11 +21,13 @@ A real-time aerial surveillance system using YOLOv8 for object detection in dron
 - Download processed videos
 - ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Detection Results
-![Detection Results](screenshots/detection_results.png)
+![Detection Results](detection_results.png)
 
 ### Detection Log
-![Detection Log](screenshots/detection_log.png)
+![Detection Log](detection_log.png)
