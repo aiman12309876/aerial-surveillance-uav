@@ -40,9 +40,10 @@ A real-time aerial surveillance system using **YOLOv8** for object detection in 
 
 ---
 
-##Support
+##  Support
 If you found this project useful, please give it a star on GitHub! ⭐
 
+---
 ##  Technologies Used
 
 | Component | Technology |
