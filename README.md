@@ -31,3 +31,30 @@ A real-time aerial surveillance system using YOLOv8 for object detection in dron
 
 ### Detection Log
 ![Detection Log](detection_log.png)
+## 🎯 How It Works
+
+1. **Upload** a drone video (MP4, AVI, MOV, MKV)
+2. **Adjust** detection settings (confidence threshold, CLAHE preprocessing)
+3. **Click** "Run Detection"
+4. **View** real-time object detection with bounding boxes
+5. **Download** the processed video
+
+---
+
+## 🛠️ Technologies Used
+
+| Component | Technology |
+|-----------|------------|
+| AI Model | YOLOv8 (Ultralytics) |
+| Frontend | Streamlit |
+| Data Processing | OpenCV, NumPy |
+| Visualization | Plotly, Pandas |
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/aiman12309876/aerial-surveillance-uav.git
+cd aerial-surveillance-uav
+pip install -r requirements.txt
