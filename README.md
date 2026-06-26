@@ -59,10 +59,6 @@ A real-time aerial surveillance system using **YOLOv8** for object detection in 
 | FPS | 30+ (GPU) |
 | Classes | 80 |
 
-## 🚀 Running the Application
-
-```bash
-streamlit run app.py
 
 ## Installation
 
