@@ -59,6 +59,24 @@ A real-time aerial surveillance system using **YOLOv8** for object detection in 
 | FPS | 30+ (GPU) |
 | Classes | 80 |
 
+## 🚀 Running the Application
+
+```bash
+streamlit run app.py
+
+📝 License
+MIT License
+
+👤 Author
+Aiman Zahoor
+
+GitHub: aiman12309876
+
+Email: aimanzahoor87@gmail.com
+
+⭐ Support
+If you found this project useful, please give it a star on GitHub! ⭐
+
 ## Installation
 
 ```bash
@@ -66,10 +84,6 @@ git clone https://github.com/aiman12309876/aerial-surveillance-uav.git
 cd aerial-surveillance-uav
 pip install -r requirements.txt
 ---
-## 🚀 Running the Application
-
-```bash
-streamlit run app.py
 
 
 
